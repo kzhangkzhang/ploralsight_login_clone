@@ -1,0 +1,19 @@
+{
+  "name": "018_ploralsightlandingpageclone",
+  "version": "1.0.0",
+  "description": "practice html css",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kzhangkzhang/ploralsight_login_clone.git"
+  },
+  "author": "Kevin Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kzhangkzhang/ploralsight_login_clone/issues"
+  },
+  "homepage": "https://kzhangkzhang.github.io/ploralsight_login_clone"
+}
